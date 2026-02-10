@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "services": "Services",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "home": "Home"
+  },
+  "hero": {
+    "title": "Your LLC USA in 10 Days",
+    "subtitle": "Wyoming & Delaware LLC formation with premium banking and legal support",
+    "cta": "Get Started",
+    "ctaSecondary": "Services"
+  },
+  "features": {
+    "title": "Our Complete Services",
+    "llc": {
+      "title": "LLC Formation",
+      "description": "Complete USA LLC creation with full legal assistance"
+    },
+    "banking": {
+      "title": "USA Bank Account",
+      "description": "Opening professional accounts with recognized American banks"
+    },
+    "ein": {
+      "title": "EIN/ITIN Numbers",
+      "description": "Obtaining mandatory federal US tax numbers"
+    },
+    "support": {
+      "title": "Expert Support",
+      "description": "Personalized assistance by our specialized French experts"
+    }
+  },
+  "stats": {
+    "days": "Days delivery",
+    "clients": "Satisfied clients",
+    "success": "Success rate",
+    "experience": "Years experience"
+  },
+  "cta": {
+    "title": "Ready to create your LLC?",
+    "description": "Free consultation within 24 hours",
+    "button": "Contact now"
+  },
+  "footer": {
+    "company": "Company",
+    "services": "Services",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "company_description": "USA LLC formation with premium banking and legal support",
+    "all_rights": "All rights reserved",
+    "language": "Language"
+  },
+  "contact": {
+    "title": "Contact our team",
+    "subtitle": "Let's talk about your project",
+    "form_title": "Contact form",
+    "name": "Full name",
+    "email": "Email address",
+    "phone": "Phone number",
+    "subject": "Subject",
+    "message": "Message",
+    "submit": "Send",
+    "success": "Message sent successfully"
+  },
+  "services_page": {
+    "title": "Our Premium Services",
+    "description": "Complete solutions for your USA LLC formation",
+    "llc_formation": {
+      "title": "LLC Formation",
+      "description": "Complete LLC creation with legal documents"
+    },
+    "banking": {
+      "title": "Bank Account Opening",
+      "description": "Professional bank accounts in the USA"
+    },
+    "ein": {
+      "title": "EIN/ITIN Numbers",
+      "description": "Federal US tax numbers"
+    }
+  },
+  "pricing": {
+    "title": "Our Transparent Pricing",
+    "subtitle": "Packages adapted to your needs",
+    "basic": "Discovery Package",
+    "professional": "Professional Package",
+    "premium": "Premium Package",
+    "choose": "Choose",
+    "features": "Included",
+    "per_month": "per month",
+    "per_package": "per package",
+    "contact_for_custom": "Contact for custom"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "back": "Back",
+    "more_info": "More information",
+    "learn_more": "Learn more",
+    "contact_us": "Contact us"
+  }
+}

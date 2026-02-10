@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "pricing": "Precios",
+    "contact": "Contacto",
+    "home": "Inicio"
+  },
+  "hero": {
+    "title": "Tu LLC USA en 10 Días",
+    "subtitle": "Formación de LLC Wyoming & Delaware con soporte bancario y legal premium",
+    "cta": "Comenzar",
+    "ctaSecondary": "Servicios"
+  },
+  "features": {
+    "title": "Nuestros Servicios Completos",
+    "llc": {
+      "title": "Formación de LLC",
+      "description": "Creación completa de LLC en Estados Unidos con asistencia legal completa"
+    },
+    "banking": {
+      "title": "Cuenta Bancaria USA",
+      "description": "Apertura de cuentas profesionales en bancos estadounidenses reconocidos"
+    },
+    "ein": {
+      "title": "Números EIN/ITIN",
+      "description": "Obtención de números fiscales federales estadounidenses obligatorios"
+    },
+    "support": {
+      "title": "Soporte de Expertos",
+      "description": "Asistencia personalizada de nuestros expertos franceses especializados"
+    }
+  },
+  "stats": {
+    "days": "Días de entrega",
+    "clients": "Clientes satisfechos",
+    "success": "Tasa de éxito",
+    "experience": "Años de experiencia"
+  },
+  "cta": {
+    "title": "¿Listo para crear tu LLC?",
+    "description": "Consulta gratuita dentro de 24 horas",
+    "button": "Contacta ahora"
+  },
+  "footer": {
+    "company": "Empresa",
+    "services": "Servicios",
+    "pricing": "Precios",
+    "contact": "Contacto",
+    "legal": "Legal",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "company_description": "Formación de LLC USA con soporte bancario y legal premium",
+    "all_rights": "Todos los derechos reservados",
+    "language": "Idioma"
+  },
+  "contact": {
+    "title": "Contacta a nuestro equipo",
+    "subtitle": "Hablemos de tu proyecto",
+    "form_title": "Formulario de contacto",
+    "name": "Nombre completo",
+    "email": "Dirección de correo electrónico",
+    "phone": "Número de teléfono",
+    "subject": "Asunto",
+    "message": "Mensaje",
+    "submit": "Enviar",
+    "success": "Mensaje enviado exitosamente"
+  },
+  "services_page": {
+    "title": "Nuestros Servicios Premium",
+    "description": "Soluciones completas para tu formación de LLC USA",
+    "llc_formation": {
+      "title": "Formación de LLC",
+      "description": "Creación completa de LLC con documentos legales"
+    },
+    "banking": {
+      "title": "Apertura de Cuenta Bancaria",
+      "description": "Cuentas bancarias profesionales en USA"
+    },
+    "ein": {
+      "title": "Números EIN/ITIN",
+      "description": "Números fiscales federales estadounidenses"
+    }
+  },
+  "pricing": {
+    "title": "Nuestros Precios Transparentes",
+    "subtitle": "Paquetes adaptados a tus necesidades",
+    "basic": "Paquete Descubrimiento",
+    "professional": "Paquete Profesional",
+    "premium": "Paquete Premium",
+    "choose": "Elegir",
+    "features": "Incluido",
+    "per_month": "por mes",
+    "per_package": "por paquete",
+    "contact_for_custom": "Contacta para personalizado"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "Éxito",
+    "back": "Atrás",
+    "more_info": "Más información",
+    "learn_more": "Saber más",
+    "contact_us": "Contáctanos"
+  }
+}
