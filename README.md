@@ -1,24 +1,21 @@
-# Welcome to your Lovable project
+# Elite LLC - Formation LLC USA Premium
 
-## Project info
+## Documentation du projet
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**Site**: https://elitellc.pro
 
-## How can I edit this code?
+## Développement Local
 
-There are several ways of editing your application.
+## Éditer des fichiers
 
-**Use Lovable**
+Modifiez directement les fichiers avec votre IDE préféré.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Vous pouvez aussi éditer les fichiers dans:
+- GitHub web editor
+- GitHub Codespaces
+- Votre IDE local
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Le seul prérequis est d'avoir Node.js & npm installés
 
 Follow these steps:
 
@@ -50,9 +47,9 @@ npm run dev
 - Click on "New codespace" to launch a new Codespace environment.
 - Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+## Technologies utilisées
 
-This project is built with:
+Ce projet est construit avec:
 
 - Vite
 - TypeScript
@@ -62,12 +59,8 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Vous pouvez déployer ce projet via Netlify, Vercel, ou autre plateforme statique.
 
-## Can I connect a custom domain to my Lovable project?
 
-Yes, you can!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
